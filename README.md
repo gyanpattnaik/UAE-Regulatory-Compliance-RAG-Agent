@@ -269,7 +269,7 @@ Every answer includes a **mandatory legal disclaimer**. The system prompt forbid
 
 ## 🙏 Acknowledgements
 
-- **[@MousumiMohapatra08](https://github.com/MousumiMohapatra08)** — Project concept and direction
+- **[@MousumiMohapatra08](https://github.com/MousumiMohapatra08)** :- Project concept and direction
 
 ---
 
