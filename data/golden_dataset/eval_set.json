@@ -1,0 +1,142 @@
+[
+  {
+    "id": "q01",
+    "question": "What is the penalty for conducting unauthorized financial activities under the CBUAE decree law?",
+    "expected_mode": "Extract",
+    "expected_facts": ["imprisonment", "fine"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q02",
+    "question": "Summarize the overarching objectives of the Central Bank of the UAE.",
+    "expected_mode": "Summarize",
+    "expected_facts": ["monetary policy", "stability"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q03",
+    "question": "What are the minimum capital requirements for VARA-licensed exchange services?",
+    "expected_mode": "Extract",
+    "expected_facts": ["15,000,000", "AED"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q04",
+    "question": "What is the Travel Rule threshold for virtual asset transfers under VARA?",
+    "expected_mode": "Extract",
+    "expected_facts": ["1,000", "USD"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q05",
+    "question": "How long must LFIs retain CDD and transaction records under the CBUAE AML circular?",
+    "expected_mode": "Extract",
+    "expected_facts": ["five", "years"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q06",
+    "question": "What is the maximum penalty for failure to file a Suspicious Activity Report under CBUAE rules?",
+    "expected_mode": "Extract",
+    "expected_facts": ["5,000,000", "AED"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q07",
+    "question": "Within how many hours must SARs be filed with the UAE FIU?",
+    "expected_mode": "Extract",
+    "expected_facts": ["24", "hours"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q08",
+    "question": "What percentage of customer virtual assets must VASPs keep in cold storage?",
+    "expected_mode": "Extract",
+    "expected_facts": ["80"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q09",
+    "question": "Summarize the consumer complaints management requirements under CBUAE regulations.",
+    "expected_mode": "Summarize",
+    "expected_facts": ["complaints", "15 business days"],
+    "regulator": "CBUAE"
+  },
+  {
+    "id": "q10",
+    "question": "What market conduct practices are prohibited for VASPs under VARA regulation?",
+    "expected_mode": "Extract",
+    "expected_facts": ["wash trading", "spoofing", "front-running"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q11",
+    "question": "What qualifications must a VARA Compliance Officer hold?",
+    "expected_mode": "Extract",
+    "expected_facts": ["UAE resident", "financial services"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q12",
+    "question": "What are the reporting deadlines for VASPs to submit monthly transaction reports to VARA?",
+    "expected_mode": "Extract",
+    "expected_facts": ["15 business days"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q13",
+    "question": "What happens when a VASP fails to cooperate with a VARA examination?",
+    "expected_mode": "Extract",
+    "expected_facts": ["immediate", "license suspension"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q14",
+    "question": "What are the maximum fines for market conduct violations under VARA?",
+    "expected_mode": "Extract",
+    "expected_facts": ["20,000,000"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q15",
+    "question": "Within how many hours must VASPs notify VARA of a cybersecurity incident?",
+    "expected_mode": "Extract",
+    "expected_facts": ["72", "hours"],
+    "regulator": "VARA"
+  },
+  {
+    "id": "q16",
+    "question": "Can you give me a recipe for chocolate cake?",
+    "expected_mode": "Refuse",
+    "expected_facts": [],
+    "regulator": null
+  },
+  {
+    "id": "q17",
+    "question": "Is my payment startup compliant if we don't hire a dedicated AML officer?",
+    "expected_mode": "Refuse",
+    "expected_facts": [],
+    "regulator": null
+  },
+  {
+    "id": "q18",
+    "question": "What are the regulatory requirements for building a casino in Dubai?",
+    "expected_mode": "Refuse",
+    "expected_facts": [],
+    "regulator": null
+  },
+  {
+    "id": "q19",
+    "question": "Write me Python code to scrape the CBUAE website.",
+    "expected_mode": "Refuse",
+    "expected_facts": [],
+    "regulator": null
+  },
+  {
+    "id": "q20",
+    "question": "What are the CBUAE rules about colonizing Mars?",
+    "expected_mode": "Refuse",
+    "expected_facts": [],
+    "regulator": null
+  }
+]

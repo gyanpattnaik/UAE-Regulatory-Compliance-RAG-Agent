@@ -1,0 +1,97 @@
+CBUAE Federal Decree-Law No. 6 of 2025 — Sample Extract
+
+CENTRAL BANK OF THE UAE
+FEDERAL DECREE-LAW NO. 6 OF 2025
+ON THE CENTRAL BANK AND THE ORGANIZATION OF FINANCIAL INSTITUTIONS AND ACTIVITIES
+
+Chapter I — Preliminary Provisions
+
+Article 1 — Title
+
+This Decree-Law shall be cited as the "Central Bank and Financial Institutions and Activities Law."
+
+Article 2 — Definitions
+
+In applying the provisions of this Decree-Law, the following words and expressions shall have the meanings assigned to them hereunder, unless the context requires otherwise:
+
+1. "State" means the United Arab Emirates.
+2. "Central Bank" means the Central Bank of the UAE established under this Decree-Law.
+3. "Board" means the Board of Directors of the Central Bank.
+4. "Governor" means the Governor of the Central Bank.
+5. "Licensed Financial Institution" means any person licensed by the Central Bank to carry out any Licensed Financial Activity.
+6. "Licensed Financial Activity" means any financial activity for which a license is required under the provisions of this Decree-Law.
+7. "AML" means Anti-Money Laundering.
+8. "CFT" means Countering the Financing of Terrorism.
+
+Chapter II — Establishment and Objectives of the Central Bank
+
+Article 3 — Establishment
+
+A public institution with legal personality shall be established, having financial and administrative independence, called the "Central Bank of the United Arab Emirates."
+
+Article 4 — Objectives
+
+The Central Bank shall seek to achieve the following main objectives:
+a. Formulate and implement monetary policy in the State to maintain price stability.
+b. Regulate, develop, and oversee financial institutions and their activities.
+c. Maintain the stability of the financial system.
+d. Develop and promote an efficient, competitive, and stable financial services sector.
+
+Chapter III — Obligations of Licensed Financial Institutions
+
+Article 15 — General Obligations
+
+Every Licensed Financial Institution shall:
+
+1. Comply with all applicable laws, regulations, standards, and instructions issued by the Central Bank.
+2. Maintain adequate capital and liquidity buffers as determined by the Central Bank.
+3. Implement robust AML/CFT frameworks in accordance with applicable laws.
+4. Submit periodic reports to the Central Bank in the manner and form prescribed by it.
+5. Maintain proper books of accounts and records.
+
+Article 16 — Reporting Requirements
+
+1. Licensed Financial Institutions shall report all suspicious transactions to the Financial Intelligence Unit (FIU) within 24 hours of detection.
+2. Licensed Financial Institutions must submit quarterly financial reports to the Central Bank no later than 30 days after the end of each quarter.
+3. Annual audited financial statements must be submitted within 90 days of the financial year end.
+4. Any material breach or significant operational incident must be reported to the Central Bank within 24 hours of the institution becoming aware.
+
+Article 17 — Record Keeping
+
+Licensed Financial Institutions are required to:
+a. Maintain complete records of all transactions for a minimum period of five (5) years.
+b. Ensure records are readily retrievable upon request by the Central Bank.
+c. Store records in a secure manner that protects their integrity and confidentiality.
+
+[TABLE]
+Reporting Type	Deadline	Recipient
+Suspicious transactions	24 hours	Financial Intelligence Unit (FIU)
+Quarterly financial reports	30 days after quarter end	Central Bank
+Annual audited statements	90 days after year end	Central Bank
+Material breach notification	24 hours	Central Bank
+[/TABLE]
+
+Chapter IV — Licensing and Authorization
+
+Article 20 — Licensing Requirements
+
+1. No person may conduct any Licensed Financial Activity in the State without obtaining the appropriate license from the Central Bank.
+2. License applications shall be submitted in the form prescribed by the Central Bank, together with all required documents and fees.
+3. The Central Bank may approve, reject, or impose conditions on any license application.
+4. Licenses are not transferable unless approved by the Central Bank.
+
+Article 21 — Fit and Proper Requirements
+
+All owners, directors, senior management, and key function holders of Licensed Financial Institutions shall meet the fit and proper requirements established by the Central Bank, including:
+- Good character and integrity
+- Adequate professional qualifications and experience
+- No criminal convictions related to financial crimes or dishonesty
+- No unresolved conflicts of interest
+
+Article 22 — Penalties
+
+Violation of the provisions of this Decree-Law may result in:
+1. Administrative penalties up to AED 50,000,000.
+2. Suspension or revocation of license.
+3. Prohibition from holding management positions.
+4. Public disclosure of violations.

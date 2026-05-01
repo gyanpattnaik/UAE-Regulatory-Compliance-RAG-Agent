@@ -1,0 +1,94 @@
+# VARA Compliance and Risk Management Regulation — Virtual Asset Activities
+
+## Part 1 — Risk Governance
+
+Article 1 — Board Responsibilities
+1.1 The Board of Directors of every VASP shall be ultimately responsible for the sound and prudent management of the VASP, including oversight of all virtual asset activities and associated risks.
+
+1.2 The Board shall approve and periodically review (at least annually):
+- The VASP's risk appetite statement
+- The compliance and risk management frameworks
+- The AML/CFT policies and procedures
+- Business continuity and disaster recovery plans
+
+1.3 At least two members of the Board shall demonstrate relevant experience in virtual asset technology, financial services regulation, or risk management.
+
+Article 2 — Risk Management Framework
+2.1 Every VASP shall establish and maintain a comprehensive risk management framework commensurate with the nature, scale, and complexity of its virtual asset activities.
+
+2.2 The risk management framework shall address, at a minimum:
+- Market risk arising from virtual asset price volatility
+- Operational risk including technology failures and human error
+- Liquidity risk including the ability to meet customer withdrawal requests
+- Counterparty risk in relation to exchange and settlement activities
+- Legal and regulatory risk including cross-jurisdictional compliance
+- Reputational risk
+
+2.3 VASPs shall maintain a dedicated risk management function, independent of business operations, with direct reporting access to the Board.
+
+## Part 2 — Compliance Requirements
+
+Article 3 — Compliance Officer
+3.1 Every VASP shall appoint a qualified Compliance Officer who shall be:
+- A UAE resident
+- A person of good standing with no criminal convictions related to financial crimes
+- Experienced in financial services compliance, AML/CFT, or virtual asset regulation
+- Independent from revenue-generating functions
+
+3.2 The Compliance Officer shall be responsible for:
+- Monitoring compliance with all applicable VARA regulations
+- Submitting regulatory reports and filings to VARA
+- Managing the VASP's AML/CFT program
+- Conducting internal compliance reviews at least quarterly
+- Reporting compliance breaches to the Board and VARA within 48 hours
+
+Article 4 — Regulatory Reporting
+4.1 VASPs shall submit the following reports to VARA:
+- Monthly transaction volume reports (within 15 business days of month-end)
+- Quarterly financial statements (within 30 business days of quarter-end)
+- Annual audited financial statements (within 90 business days of year-end)
+- Immediate notification of material events (within 24 hours)
+
+4.2 Material events that require immediate notification include:
+- Any security breach affecting customer assets or data
+- Insolvency or material deterioration in financial condition
+- Any regulatory action by another authority (domestic or foreign)
+- Changes in beneficial ownership exceeding 10% of voting rights
+- Suspension or termination of any significant business activity
+
+Article 5 — Market Conduct
+5.1 VASPs shall not engage in or facilitate:
+- Market manipulation, including wash trading, spoofing, or layering
+- Insider trading based on material non-public information
+- Front-running of customer orders
+- Artificial inflation or deflation of virtual asset prices
+
+5.2 VASPs operating exchange services shall implement surveillance systems capable of detecting and reporting suspicious trading patterns.
+
+5.3 Violations of market conduct rules shall result in penalties including fines of up to AED 20,000,000, license suspension, or referral to criminal authorities.
+
+## Part 3 — Audit and Examination
+
+Article 6 — Internal Audit
+6.1 VASPs with total customer assets exceeding AED 50,000,000 shall maintain an internal audit function independent of management.
+
+6.2 The internal audit function shall conduct risk-based audits of:
+- AML/CFT compliance
+- Customer asset segregation and custody controls
+- Technology and cybersecurity controls
+- Financial reporting integrity
+- Complaints handling effectiveness
+
+Article 7 — External Audit
+7.1 All VASPs shall engage an external auditor approved by VARA to conduct annual audits.
+
+7.2 The external auditor shall provide an opinion on:
+- The VASP's financial statements
+- The adequacy of internal controls over customer assets
+- Compliance with VARA's capital adequacy requirements
+- The integrity of the VASP's virtual asset reserves relative to customer balances (Proof of Reserves)
+
+Article 8 — VARA Examination Powers
+8.1 VARA may at any time conduct on-site or off-site examinations of any VASP.
+8.2 VASPs shall provide VARA with unrestricted access to all records, systems, and personnel during examinations.
+8.3 Failure to cooperate with a VARA examination shall result in immediate license suspension.

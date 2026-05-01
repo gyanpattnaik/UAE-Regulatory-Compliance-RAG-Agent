@@ -1,0 +1,69 @@
+# CBUAE Consumer Protection Regulation No. 1/2025
+
+## Chapter 1 — General Provisions
+
+Article 1 — Purpose
+This Regulation establishes the framework for consumer protection in the financial services sector under the jurisdiction of the Central Bank of the UAE. It aims to ensure that Licensed Financial Institutions treat customers fairly, transparently, and in accordance with applicable laws.
+
+Article 2 — Scope
+This Regulation applies to all Licensed Financial Institutions supervised by the CBUAE, including banks, finance companies, exchange houses, payment service providers, and stored value facility operators.
+
+## Chapter 2 — Fair Treatment of Customers
+
+Article 3 — General Duty of Fair Dealing
+All LFIs shall act honestly, fairly, and professionally in the best interests of their customers. LFIs shall not engage in misleading, deceptive, or unconscionable conduct in dealing with customers.
+
+Article 4 — Transparency and Disclosure
+4.1 LFIs shall provide customers with clear, accurate, and timely information about:
+- The nature, features, terms, and risks of financial products and services
+- All fees, charges, and commissions applicable to the product or service
+- The customer's rights, including the right to complain and seek redress
+- Cooling-off periods and cancellation rights where applicable
+
+4.2 Key information shall be provided in both Arabic and English.
+
+4.3 LFIs shall not use fine print, technical jargon, or complex language to obscure material terms or risks from customers.
+
+Article 5 — Suitability
+5.1 Before recommending or selling a financial product, LFIs shall assess the customer's financial circumstances, investment objectives, risk tolerance, and financial literacy.
+
+5.2 LFIs shall not sell products that are unsuitable for the customer's profile. If a customer insists on purchasing an unsuitable product, the LFI shall document the customer's decision and provide a written risk warning.
+
+## Chapter 3 — Complaints Management
+
+Article 6 — Complaints Framework
+6.1 Every LFI shall establish a documented complaints management framework that includes:
+- Designated complaints handling personnel
+- Clear and accessible channels for submitting complaints (including online, telephone, and in-branch)
+- Written acknowledgment of complaints within 2 business days
+- Resolution of complaints within 15 business days
+- Escalation procedures for unresolved complaints
+
+6.2 LFIs shall submit quarterly reports to the CBUAE detailing:
+- Total number of complaints received
+- Categories of complaints
+- Average resolution time
+- Number of complaints escalated to the CBUAE
+
+Article 7 — CBUAE Complaints Escalation
+7.1 Customers who are dissatisfied with the LFI's resolution may escalate their complaint to the CBUAE.
+7.2 The CBUAE shall investigate escalated complaints within 30 business days and may impose remedial actions on the LFI.
+
+## Chapter 4 — Data Protection
+
+Article 8 — Customer Data
+8.1 LFIs shall protect customer personal and financial data in accordance with applicable UAE data protection legislation.
+8.2 Customer data shall not be shared with third parties without explicit customer consent, except as required by law or regulation.
+8.3 LFIs shall notify customers and the CBUAE within 72 hours of discovering a data breach that may affect customer information.
+
+## Chapter 5 — Penalties
+
+Article 9 — Enforcement
+9.1 Violations of this Regulation may result in:
+- Administrative fines of up to AED 1,000,000 per violation
+- Mandatory remediation of customer harm
+- Public censure
+- Restrictions on product offerings
+- License conditions or suspension
+
+9.2 Repeated violations or systemic failures in consumer protection shall be treated as aggravating factors in penalty determination.

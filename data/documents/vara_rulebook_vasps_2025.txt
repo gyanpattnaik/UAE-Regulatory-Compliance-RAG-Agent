@@ -1,0 +1,69 @@
+# VARA Virtual Assets Regulatory Authority — Rulebook Excerpts
+
+## Section 1 — Scope and Definitions
+
+1.1 This Rulebook applies to all Virtual Asset Service Providers (VASPs) licensed or seeking a license to operate within the Emirate of Dubai, excluding the Dubai International Financial Centre (DIFC).
+
+1.2 "Virtual Asset" means a digital representation of value that can be digitally traded, transferred, or used for payment or investment purposes. Virtual Assets do not include digital representations of fiat currencies, securities, or other financial assets already regulated under applicable law.
+
+1.3 "VASP" means any natural or legal person who, as a business, conducts one or more of the following activities: exchange between virtual assets and fiat currencies, exchange between one or more forms of virtual assets, transfer of virtual assets, safekeeping or administration of virtual assets.
+
+## Section 2 — Licensing Requirements
+
+2.1 No person shall carry on or purport to carry on any Virtual Asset Activity in or from Dubai without holding a valid VARA license.
+
+2.2 Applications for a VARA license shall include:
+- A detailed business plan covering at least three years of projected operations
+- Proof of adequate financial resources, including minimum capital requirements
+- A comprehensive AML/CFT compliance framework approved by a qualified compliance officer
+- Technology risk management policy including cybersecurity measures and incident response plans
+- Proof of adequate insurance or equivalent financial guarantee
+
+2.3 Minimum capital requirements for VASPs shall be as follows:
+- Exchange Services: AED 15,000,000
+- Broker-Dealer Services: AED 5,000,000
+- Custody Services: AED 10,000,000
+- Advisory Services: AED 1,000,000
+
+2.4 VARA shall process license applications within 90 business days of receiving a complete application. VARA may request additional information, which shall toll the processing period.
+
+## Section 3 — AML/CFT Obligations
+
+3.1 All VASPs shall implement and maintain a comprehensive AML/CFT program that includes:
+- Customer Due Diligence (CDD) procedures for all customers before establishing a business relationship
+- Enhanced Due Diligence (EDD) for customers assessed as high-risk, including Politically Exposed Persons (PEPs)
+- Ongoing monitoring of customer transactions and activities
+- Suspicious Activity Reporting (SAR) to the UAE Financial Intelligence Unit within 24 hours
+- Record keeping for a minimum of eight (8) years from the date of the transaction or the end of the business relationship, whichever is later
+
+3.2 Travel Rule: VASPs shall comply with FATF Recommendation 16 (the Travel Rule) for all virtual asset transfers. For transfers exceeding USD 1,000 (or equivalent), the originating VASP shall obtain and transmit the following information:
+- Originator's name
+- Originator's account number or unique transaction reference
+- Originator's physical address, national identity number, or date and place of birth
+- Beneficiary's name
+- Beneficiary's account number or unique transaction reference
+
+3.3 VASPs shall not process transactions involving sanctioned jurisdictions, entities, or individuals as designated by the UAE Executive Office of Anti-Money Laundering and Counter Terrorism Financing, the United Nations Security Council, or OFAC.
+
+## Section 4 — Technology and Cybersecurity
+
+4.1 VASPs shall maintain robust cybersecurity frameworks that include:
+- Annual penetration testing by an independent third party
+- Multi-factor authentication for all customer accounts
+- Cold storage of at least 80% of customer virtual assets
+- Real-time monitoring and alerting systems for unauthorized access
+- Incident response plan with mandatory reporting to VARA within 72 hours of a material incident
+
+4.2 VASPs shall ensure business continuity through redundant systems and disaster recovery plans tested at least annually.
+
+## Section 5 — Consumer Protection
+
+5.1 VASPs shall provide clear and prominent risk disclosures to all customers prior to onboarding, including:
+- The risk of total loss of invested capital
+- The volatility of virtual asset prices
+- The regulatory status and limitations of VARA's oversight
+- The absence of deposit insurance or compensation schemes
+
+5.2 Customer complaints shall be acknowledged within 2 business days and resolved within 15 business days. Unresolved complaints may be escalated to VARA.
+
+5.3 VASPs shall segregate customer virtual assets from proprietary assets at all times. Customer assets shall not be used for proprietary trading, lending, or any purpose other than executing customer instructions.

@@ -1,0 +1,78 @@
+# CBUAE Circular No. 3/2025 — Anti-Money Laundering Requirements for Licensed Financial Institutions
+
+## Article 1 — Purpose and Scope
+
+This Circular sets out the minimum requirements for Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) that all Licensed Financial Institutions (LFIs) under the supervision of the Central Bank of the UAE must implement.
+
+For the purposes of this Circular, "Licensed Financial Institutions" includes banks, exchange houses, finance companies, payment service providers, and any other entity licensed by the CBUAE.
+
+## Article 2 — Risk-Based Approach
+
+2.1 All LFIs shall conduct an institution-wide Money Laundering and Terrorist Financing (ML/TF) risk assessment at least annually. The risk assessment shall consider:
+- Customer risk factors (including geographic risk, industry risk, and transaction patterns)
+- Product and service risk factors
+- Delivery channel risk factors
+- Country and geographic risk factors
+
+2.2 The ML/TF risk assessment shall be approved by the Board of Directors or Senior Management and documented in writing.
+
+## Article 3 — Customer Due Diligence (CDD)
+
+3.1 LFIs shall perform Customer Due Diligence before:
+- Establishing a business relationship
+- Carrying out occasional transactions above AED 55,000 (or equivalent in foreign currency)
+- When there is a suspicion of ML/TF regardless of transaction amount
+- When there are doubts about the veracity of previously obtained identification data
+
+3.2 CDD measures shall include:
+- Verifying the customer's identity using reliable, independent source documents
+- Identifying the beneficial owner and taking reasonable measures to verify their identity
+- Understanding and documenting the purpose and intended nature of the business relationship
+- Conducting ongoing due diligence on the business relationship
+
+3.3 Where CDD cannot be satisfactorily completed, the LFI shall not open the account, commence a business relationship, or perform the transaction. The LFI shall consider filing a Suspicious Activity Report (SAR).
+
+## Article 4 — Suspicious Activity Reporting
+
+4.1 LFIs shall file Suspicious Activity Reports (SARs) with the UAE Financial Intelligence Unit (FIU) when there is a suspicion or reasonable grounds to suspect that funds are the proceeds of a criminal activity or are related to terrorist financing.
+
+4.2 SARs shall be filed promptly and no later than 24 hours after the suspicion is formed.
+
+4.3 Failure to file a SAR or filing a materially incomplete SAR shall be subject to administrative penalties of up to AED 5,000,000 per violation.
+
+4.4 LFIs and their employees shall not disclose to the customer or any third party that a SAR has been or will be filed (tipping-off prohibition).
+
+## Article 5 — Record Keeping
+
+5.1 LFIs shall maintain all CDD records, transaction records, and correspondence for a minimum of five (5) years after the termination of the business relationship.
+
+5.2 Records shall be maintained in a manner that allows timely retrieval by the CBUAE or the FIU upon request.
+
+## Article 6 — Compliance Function
+
+6.1 Every LFI shall appoint a dedicated Compliance Officer at the senior management level who is responsible for the AML/CFT program.
+
+6.2 The Compliance Officer shall have direct reporting access to the Board of Directors and shall not hold concurrent operational responsibilities that could create a conflict of interest.
+
+6.3 LFIs shall provide adequate resources, including staffing and technology systems, to the AML/CFT compliance function.
+
+## Article 7 — Training
+
+7.1 LFIs shall conduct AML/CFT training for all relevant employees at least annually.
+
+7.2 Training shall cover:
+- ML/TF risks specific to the institution and its products
+- CDD procedures and red flag indicators
+- SAR filing procedures
+- Sanctions compliance requirements
+- Consequences of non-compliance for both the institution and individuals
+
+## Article 8 — Penalties
+
+8.1 Violations of this Circular may result in administrative penalties including:
+- Fines of up to AED 10,000,000 per violation
+- Suspension or revocation of the LFI's license
+- Public censure
+- Referral to criminal prosecution authorities
+
+8.2 The CBUAE may impose additional supervisory measures including enhanced monitoring, restrictions on activities, or appointment of an external monitor.
