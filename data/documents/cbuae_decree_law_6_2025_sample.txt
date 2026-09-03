@@ -1,5 +1,7 @@
 CBUAE Federal Decree-Law No. 6 of 2025 — Sample Extract
 
+> **Synthetic document.** Representative regulatory text written for evaluation of this project's retrieval pipeline. Not a verbatim extract of any instrument, and not for compliance use. See `data/documents/README.md`.
+
 CENTRAL BANK OF THE UAE
 FEDERAL DECREE-LAW NO. 6 OF 2025
 ON THE CENTRAL BANK AND THE ORGANIZATION OF FINANCIAL INSTITUTIONS AND ACTIVITIES

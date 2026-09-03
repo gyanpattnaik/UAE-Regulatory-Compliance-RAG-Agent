@@ -1,4 +1,6 @@
-# CBUAE Circular No. 3/2025 — Anti-Money Laundering Requirements for Licensed Financial Institutions
+# CBUAE — Anti-Money Laundering Requirements for Licensed Financial Institutions
+
+> **Synthetic document.** Representative regulatory text written for evaluation of this project's retrieval pipeline. Not a verbatim extract of any instrument, and not for compliance use. See `data/documents/README.md`.
 
 ## Article 1 — Purpose and Scope
 

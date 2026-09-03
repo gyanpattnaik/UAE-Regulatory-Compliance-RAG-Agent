@@ -1,4 +1,6 @@
-# CBUAE Consumer Protection Regulation No. 1/2025
+# CBUAE — Consumer Protection Requirements for Licensed Financial Institutions
+
+> **Synthetic document.** Representative regulatory text written for evaluation of this project's retrieval pipeline. Not a verbatim extract of any instrument, and not for compliance use. See `data/documents/README.md`.
 
 ## Chapter 1 — General Provisions
 

@@ -155,7 +155,8 @@ cp .env.example .env
 ```bash
 python ingest_all.py
 ```
-This processes 5 regulatory documents → 38 chunks → ChromaDB + BM25 indexes.
+This processes 5 synthetic regulatory documents → 38 chunks → ChromaDB + BM25 indexes.
+The corpus is representative text written for evaluation, not real regulatory source — see [`data/documents/README.md`](data/documents/README.md).
 
 ### 4. Launch
 
@@ -204,7 +205,7 @@ python -m src.evaluation.evaluate
 │   └── ui/
 │       └── components.py           # Streamlit metric & citation renderers
 ├── data/
-│   ├── documents/                  # 5 source regulatory texts
+│   ├── documents/                  # 5 synthetic regulatory texts (see its README)
 │   └── golden_dataset/
 │       └── eval_set.json           # 20-question evaluation dataset
 ├── tests/                          # 69 tests (unit + integration)
