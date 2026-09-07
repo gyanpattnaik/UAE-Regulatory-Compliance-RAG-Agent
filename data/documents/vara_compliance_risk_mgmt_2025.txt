@@ -1,5 +1,7 @@
 # VARA Compliance and Risk Management Regulation — Virtual Asset Activities
 
+> **Synthetic document.** Representative regulatory text written for evaluation of this project's retrieval pipeline. Not a verbatim extract of any instrument, and not for compliance use. See `data/documents/README.md`.
+
 ## Part 1 — Risk Governance
 
 Article 1 — Board Responsibilities

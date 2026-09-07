@@ -17,11 +17,18 @@ from src.retrieval.bm25_index import BM25Index
 
 import json
 
-# Document manifest: each document we want to ingest
+# Document manifest: each document we want to ingest.
+#
+# NOTE: every file below is SYNTHETIC — representative regulatory text
+# written to evaluate this pipeline, not a verbatim instrument. Titles
+# therefore describe subject matter and do not assert a circular number,
+# and each source_url points at the regulator's real landing page for that
+# subject area rather than at a specific instrument.
+# See data/documents/README.md.
 DOCUMENTS = [
     {
         "file": "data/documents/cbuae_decree_law_6_2025_sample.txt",
-        "title": "CBUAE Federal Decree-Law No. 6 of 2025 — Sample",
+        "title": "CBUAE Federal Decree-Law No. 6 of 2025 (synthetic extract)",
         "regulator": Regulator.CBUAE,
         "doc_type": DocType.FEDERAL_LAW,
         "source_url": "https://uaelegislation.gov.ae/en/legislations/3284",
@@ -29,34 +36,34 @@ DOCUMENTS = [
     },
     {
         "file": "data/documents/vara_rulebook_vasps_2025.txt",
-        "title": "VARA Rulebook — Virtual Asset Service Providers 2025",
+        "title": "VARA VASP Rulebook excerpts (synthetic)",
         "regulator": Regulator.VARA,
         "doc_type": DocType.RULEBOOK,
-        "source_url": "https://vara.ae/en/regulations/vasp-rulebook-2025",
+        "source_url": "https://rulebooks.vara.ae/",
         "effective_date": date(2025, 3, 1),
     },
     {
         "file": "data/documents/cbuae_aml_circular_3_2025.txt",
-        "title": "CBUAE Circular No. 3/2025 — AML Requirements",
+        "title": "CBUAE AML/CFT Requirements for LFIs (synthetic)",
         "regulator": Regulator.CBUAE,
         "doc_type": DocType.CIRCULAR,
-        "source_url": "https://centralbank.ae/en/legislation/circular-3-2025-aml",
+        "source_url": "https://rulebook.centralbank.ae/en/rulebook/amlcft",
         "effective_date": date(2025, 2, 15),
     },
     {
         "file": "data/documents/cbuae_consumer_protection_reg_2025.txt",
-        "title": "CBUAE Consumer Protection Regulation No. 1/2025",
+        "title": "CBUAE Consumer Protection Requirements (synthetic)",
         "regulator": Regulator.CBUAE,
         "doc_type": DocType.REGULATION,
-        "source_url": "https://centralbank.ae/en/legislation/consumer-protection-2025",
+        "source_url": "https://rulebook.centralbank.ae/en/rulebook/consumer-protection-regulation",
         "effective_date": date(2025, 1, 15),
     },
     {
         "file": "data/documents/vara_compliance_risk_mgmt_2025.txt",
-        "title": "VARA Compliance and Risk Management Regulation",
+        "title": "VARA Compliance and Risk Management (synthetic)",
         "regulator": Regulator.VARA,
         "doc_type": DocType.REGULATION,
-        "source_url": "https://vara.ae/en/regulations/compliance-risk-management-2025",
+        "source_url": "https://rulebooks.vara.ae/",
         "effective_date": date(2025, 4, 1),
     },
 ]

@@ -1,5 +1,7 @@
 # VARA Virtual Assets Regulatory Authority — Rulebook Excerpts
 
+> **Synthetic document.** Representative regulatory text written for evaluation of this project's retrieval pipeline. Not a verbatim extract of any instrument, and not for compliance use. See `data/documents/README.md`.
+
 ## Section 1 — Scope and Definitions
 
 1.1 This Rulebook applies to all Virtual Asset Service Providers (VASPs) licensed or seeking a license to operate within the Emirate of Dubai, excluding the Dubai International Financial Centre (DIFC).
